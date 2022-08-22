@@ -1,7 +1,7 @@
 let game = {
   techs: [
     "bootstrap",
-    "card",
+    "boris",
     "css",
     "electron",
     "firebase",
