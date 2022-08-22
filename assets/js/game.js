@@ -1,15 +1,15 @@
 let game = {
   techs: [
     "bootstrap",
+    "card",
     "css",
     "electron",
     "firebase",
-    "html",
+    "gato",
     "javascript",
-    "jquery",
     "mongo",
     "node",
-    "react",
+    "html",
   ],
   cards: null,
 
