@@ -35,7 +35,7 @@ let game = {
         icon: tech,
         flipped: false,
       },
-    ];completo
+    ];
   },
 
   createIdWithTech: function (tech) {
